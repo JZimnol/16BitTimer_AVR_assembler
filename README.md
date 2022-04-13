@@ -1,4 +1,4 @@
-# 16-bit Timer using ATmega329PB
+# 16-bit timer using ATmega328PB
 
 This repository has been created for Microprocessor Systems project. This is a simple __*16-bit timer*__ based on ATmega328PB development board (project has been written using AVR assembler language).
 
